@@ -1,6 +1,6 @@
 # FGP_2023
 
-## N.B. in progress.
+### N.B. in progress.
 
 These notebooks reproduce the implementation and analysis of a biophysical model for ATAC-seq data analysis. 
 
