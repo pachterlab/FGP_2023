@@ -9,7 +9,8 @@ The notebooks are arranged as follows:
 - moments.ipynb: Calculate transcriptome and chromatin-state moments and compare to simluated results for a two-gene system.
 - distinguishability_simulation.ipynb: Fit our biophysical model to simulated results and compare parameter identifiability for different modalities.
 - noise.ipynb: Illustration of technical noise implementation.
-- BIC_analysis: Fit models with peak-peak correlations to ATAC data and compare Bayesian Information Criteria with a simple model without correlations.
+- loci_statistics.ipynb: Perform exploratory data analysis of ATAC-seq data. Plot site-site correlations and means.
+- BIC_analysis.ipynb: Fit models with peak-peak correlations to ATAC data and compare Bayesian Information Criteria with a simple model without correlations.
 
 The following scripts contain helper functions arranged as follows:
 
