@@ -11,6 +11,7 @@ The notebooks are arranged as follows:
 - noise.ipynb: Illustration of technical noise implementation.
 - loci_statistics.ipynb: Perform exploratory data analysis of ATAC-seq data. Plot site-site correlations and means.
 - BIC_analysis.ipynb: Fit models with peak-peak correlations to ATAC data and compare Bayesian Information Criteria with a simple model without correlations.
+- toy_systems.ipynb: Illustrate toy systems which have transcript correlations greater than chromatin site correlations.
 
 The following scripts contain helper functions arranged as follows:
 
