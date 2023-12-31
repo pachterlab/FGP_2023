@@ -18,6 +18,7 @@ The following scripts contain helper functions arranged as follows:
 - construct_H.py: Create transition matrix for Ising chromatin model.
 - simulation.py: Simulate RNA counts and chromatin configurations from model.
 - noise.py: Technical noise implementation.
+- moments.py: Functions for calculating moments.
 
 We also include a script to show how the six-site loci for ATAC-seq analysis were selected:
 
