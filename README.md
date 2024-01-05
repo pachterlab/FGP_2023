@@ -20,7 +20,7 @@ The following scripts contain helper functions arranged as follows:
 - noise.py: Technical noise implementation.
 - moments.py: Functions for calculating moments.
 
-We also include a script to show how the six-site loci for ATAC-seq analysis were selected:
+We also include a script to show how the six-site loci for ATAC-seq analysis were selected, using one of the datasets as an example.
 
 - loci_selection.py
 
