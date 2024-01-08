@@ -4,12 +4,12 @@ These notebooks reproduce the implementation and analysis of a biophysical model
 
 The notebooks are arranged as follows:
 
-- moments.ipynb: Calculate transcriptome and chromatin-state moments and compare to simluated results for a two-gene system.
-- distinguishability_simulation.ipynb: Fit our biophysical model to simulated results and compare parameter identifiability for different modalities.
-- noise.ipynb: Illustration of technical noise implementation.
-- loci_statistics.ipynb: Perform exploratory data analysis of ATAC-seq data. Plot site-site correlations and means.
-- BIC_analysis.ipynb: Fit models with peak-peak correlations to ATAC data and compare Bayesian Information Criteria with a simple model without correlations.
-- toy_systems.ipynb: Illustrate toy systems which have transcript correlations greater than chromatin site correlations.
+- moments.ipynb: Calculate transcriptome and chromatin-state moments and compare to simluated results for a two-gene system. Reproduces Figure S5.
+- distinguishability_simulation.ipynb: Fit our biophysical model to simulated results and compare parameter identifiability for different modalities. Reproduces Figure 5.
+- noise.ipynb: Illustration of technical noise implementation. Reproduces Figure S4.
+- loci_statistics.ipynb: Perform exploratory data analysis of ATAC-seq data. Plot site-site correlations and means. Reproduces panels in Figure 2, and Figures S1-S3.
+- BIC_analysis.ipynb: Fit models with peak-peak correlations to ATAC data and compare Bayesian Information Criteria with a simple model without correlations. Reproduces panels in Figures 3 and 4.
+- toy_systems.ipynb: Illustrate toy systems which have transcript correlations greater than chromatin site correlations. Reproduces panels in Figure S7.
 
 The following scripts contain helper functions arranged as follows:
 
